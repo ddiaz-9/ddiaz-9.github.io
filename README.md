@@ -1,5 +1,3 @@
-# ddiaz-9.github.io
-
 | Section | Response |
 | --- | --- |
 | Name | David Diaz |
