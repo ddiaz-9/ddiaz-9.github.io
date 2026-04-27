@@ -1,18 +1,18 @@
 body {
 background-color: #D3D3D3;
-font-family: "Lucida Console", monospace;
+font-family: "Monaco", monospace;
 font-size 150%;
 }
 
 nav {
 color: navy;
-font-family: "Lucida Console", monospace;
+font-family: "Monaco", monospace;
 font-size 150%;
 }
 
 h1 {
 color: navy;
-font-family: "Lucida Console", monospace;
+font-family: "Monaco", monospace;
 font-size 150%;
 }
 
@@ -31,7 +31,7 @@ border: 4px solid #ccc;
 
 p {
 color: navy;
-font-family: "Lucida Console", monospace;
+font-family: "Monaco", monospace;
 font-size 150%;
 }
 
